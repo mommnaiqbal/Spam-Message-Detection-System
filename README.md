@@ -1,1 +1,6 @@
-# Spam-Message-Detection-System
+pandas==2.2.2
+numpy==2.1.1
+scikit-learn==1.5.1
+nltk==3.9.1
+matplotlib==3.9.2
+joblib==1.4.2
